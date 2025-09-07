@@ -25,7 +25,9 @@ De esta manera, el sorteo es rápido, sencillo y divertido 🎉.
 ## 💻 Instalación / Uso
 	1.	Clonar el repositorio:
  git clone https://github.com/MerAlura/challenge-amigo-secreto_esp-main.git
+   
    2. Abrir index.html en un navegador (Chrome, Firefox, Edge)
+      
    3. ¡Agregar nombres y sortear Amigos!🎉.
 
  ## 📋 Requisitos
