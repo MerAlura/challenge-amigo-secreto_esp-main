@@ -15,3 +15,7 @@ De esta manera, el sorteo es rápido, sencillo y divertido 🎉.
 - *JavaScript*  
 
 ## 📂 Estructura del proyecto
+- index.html #Archivo principal de la aplicacion
+- style.css #Estilos de la aplicacion
+- app.js #Logica en JavaSript
+- Readme.md #Documentacion del proyecto
