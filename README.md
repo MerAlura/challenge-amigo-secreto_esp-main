@@ -37,7 +37,9 @@ De esta manera, el sorteo es rápido, sencillo y divertido 🎉.
 ## 📝 Cómo funciona
 	1.	Los nombres se agregan a una lista visible en pantalla.
  <img width="863" height="636" alt="image" src="https://github.com/user-attachments/assets/6d9c2560-037d-4f6e-aca8-1b9bfd5cb84a" />
+ 
 	2.	Al hacer clic en “Sortear Amigo”, se selecciona aleatoriamente un nombre diferente al propio del usuario, y se muestra el resultado.
+ 
 	3.	Así se facilita la organización del juego sin necesidad de papel o sorteos manuales.
 <img width="701" height="298" alt="image" src="https://github.com/user-attachments/assets/67f887fa-8109-4670-a222-67a092fd91bb" />
 
