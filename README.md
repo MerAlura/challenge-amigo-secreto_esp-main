@@ -1,5 +1,7 @@
 # 🎁 Amigo Secreto
 Este proyecto forma parte de un challenge en el que se desarrolla una aplicación web para realizar el clásico juego de *Amigo Secreto*
+<img width="830" height="619" alt="image" src="https://github.com/user-attachments/assets/d2d6ccf5-0dc5-4257-b12a-bbb60f61c52d" />
+
 
 ## 🚀 Descripción  
 La aplicación permite a los usuarios:  
