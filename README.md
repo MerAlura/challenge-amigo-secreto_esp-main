@@ -21,3 +21,7 @@ De esta manera, el sorteo es rápido, sencillo y divertido 🎉.
 - style.css #Estilos de la aplicacion
 - app.js #Logica en JavaSript
 - Readme.md #Documentacion del proyecto
+
+## 💻 Instalación / Uso
+	1.	Clonar el repositorio:
+ 
